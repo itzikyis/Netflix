@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -74,3 +75,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # Netflix
 >>>>>>> d492d8de1a9a38c28441cdab2b0d4d93aa456678
+=======
+# Netflix
+>>>>>>> 349fbd40e96e924cb37c6295fde896a3b1968030
